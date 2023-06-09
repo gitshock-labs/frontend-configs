@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Company",
+        "links": [
+            {
+                "text": "Advertise",
+                "url": "https://gitshock.com"
+            },
+            {
+                "text": "Staking",
+                "url": "https://swap.gitshock.com"
+            },
+            {
+                "text": "Contact us",
+                "url": "mailto:dev-cosmware@gitshock.com"
+            },
+            {
+                "text": "Brand assets",
+                "url": "https://drive.google.com/drive/folders/1PemSY5qJZt_g0-xRoKkQR_OWrTr77FZA?usp=sharing"
+            },
+            {
+                "text": "Term of service",
+                "url": "https://docs.gitshock.com/users-guide/privacy-policy"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "API docs",
+                "url": "https://docs.gitshock.com"
+            },
+            {
+                "text": "Knowledge base",
+                "url": "https://linktr.ee/gitshock.com"
+            }
+        ]
+    },
+    {
+        "title": "Product",
+        "links": [
+            {
+                "text": "Stake Alphabet",
+                "url": "https://swap.gitshock.com"
+            },
+            {
+                "text": "Deploy Token",
+                "url": "https://edgeware.gitshock.com"
+            },
+            {
+                "text": "Become validator",
+                "url": "https://stake-phase1.cartenz.works"
+            }
+
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+   {
+      "title":"Mainnet (soon)",
+      "url":"https://www.gitshock.com/",
+      "group":"Mainnets"
+   },
+   {
+      "title":"Official Testnet Explorer",
+      "url":"https://explorer.beaconchain.me",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/gitshock-labs/frontend-configs/main/configs/marketplace-logos/gitshock-chain.svg",
+      "invertIconInDarkMode": true
+   },
+   {
+      "title":"Circle Chain Enterprise Explorer",
+      "url":"https://scan-circlechain.beaconchain.me",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/gitshock-labs/frontend-configs/main/configs/marketplace-logos/gitshock-chain.svg",
+      "invertIconInDarkMode": true,
+      "isActive":true
+   },
+   {
+      "title":"Circle Chain Enterprise Explorer",
+      "url":"https://scan.cartenz.works",
+      "group":"Testnets",
+      "icon": "https://raw.githubusercontent.com/gitshock-labs/frontend-configs/main/configs/marketplace-logos/gitshock-chain.svg",
+      "invertIconInDarkMode": true,
+      "isActive":true
+   }
+]
