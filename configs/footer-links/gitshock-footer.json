@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Company",
+        "links": [
+            {
+                "text": "Advertise",
+                "url": "https://gitshock.com"
+            },
+            {
+                "text": "Contact us",
+                "url": "mailto:dev-cosmware@gitshock.com"
+            },
+            {
+                "text": "Brand assets",
+                "url": "https://drive.google.com/drive/folders/1PemSY5qJZt_g0-xRoKkQR_OWrTr77FZA"
+            },
+            {
+                "text": "Term of service",
+                "url": "https://docs.gitshock.com/users-guide/privacy-policy"
+            }
+        ]
+    },
+    {
+        "title": "Community",
+        "links": [
+            {
+                "text": "Knowledge Gitshock",
+                "url": "https://docs.gitshock.com/users-guide/basic-concept"
+            },
+            {
+                "text": "Discord",
+                "url": "https://discord.gg/wJaaVhbkC4"
+            },
+            {
+                "text": "Twitter",
+                "url": "https://twitter.com/gitshock"
+            },
+            {
+                "text": "Github"
+                "url": "https://github.com/gitshock-labs"
+            }
+        ]
+    },
+    {
+        "title": "Product",
+        "links": [
+            {
+                "text": "Gitshock Swap[Coming Soon]",
+                "url": ""
+            },
+            {
+                "text": "Gitshock Edgeware[Coming Soon]",
+                "url": ""
+            },
+            {
+                "text": "Gitshock Bridge[Coming Soon]",
+                "url": ""
+            },
+            {
+                "text": "Blockchain Enterprise[Coming Soon]",
+                "url": "https://gitshock-labs.netlify.app"
+            },
+            {
+                "text": "Become validator",
+                "url": "https://medium.com/@Gitshockfinance/gitshock-chain-and-neware-chain-dual-pos-validators-offering-8b56fe4c0aec"
+            }
+
+        ]
+    }
+]
